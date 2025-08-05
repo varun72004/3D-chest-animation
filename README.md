@@ -15,4 +15,3 @@ Perfect for showcasing creative UI designs in Python web apps.
 
 ---
 
-## 📂 Project Structure
