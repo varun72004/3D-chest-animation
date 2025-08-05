@@ -1,2 +1,18 @@
-# 3D-chest-animation
-3D animated chest with interactive drawers built using Streamlit, HTML, and CSS. Click drawers to reveal text with smooth animations. Fully responsive and customizable, perfect for showcasing creative UI design in Python web apps.
+# 🎨 3D Animated Chest with Interactive Drawers (Streamlit)
+
+A 3D animated chest with fully interactive drawers built using **Streamlit**, **HTML**, and **CSS**.  
+Click each drawer to reveal hidden text with smooth animations.  
+Perfect for showcasing creative UI designs in Python web apps.
+
+---
+
+## 🚀 Features
+- 🗄 **Interactive drawers** — click to open/close.
+- 🎨 **Customizable colors** for text and drawer interiors.
+- 🖥 **Streamlit integration** for easy deployment.
+- 📱 **Responsive design** that works across devices.
+- ⚡ Smooth **CSS animations**.
+
+---
+
+## 📂 Project Structure
